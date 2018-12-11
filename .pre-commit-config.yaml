@@ -1,0 +1,8 @@
+-   id: script-runner
+    name: script-runner
+    entry: source
+    language: python
+    verbose: true
+    description: Run the passed bash scripts
+    args: []
+
