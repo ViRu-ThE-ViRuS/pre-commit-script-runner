@@ -1,6 +1,6 @@
 -   id: script-runner
     name: script-runner
-    entry: command
+    entry: run-files
     language: python
     verbose: true
     description: Run the passed bash scripts
